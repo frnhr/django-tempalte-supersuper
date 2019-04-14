@@ -59,7 +59,7 @@ one level in the template inheritance chain (or however that thing is called).
 
 ## How?
 
-1. `pip install `.... coming soon :grin:
+1. `pip install django-template-supersuper`
 2. Add `'template_supersuper',` to `INSTALLED_APPS`
 3. Profit!
 
