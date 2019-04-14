@@ -1,7 +1,6 @@
 # django-template-supersuper
 
-![Travis-CI](https://api.travis-ci.org/frnhr/django-template-supersuper.svg?branch=master)
-
+[![Build Status](https://travis-ci.org/frnhr/django-template-supersuper.svg?branch=master)](https://travis-ci.org/frnhr/django-template-supersuper)
 
 Adds "super_super" method to block nodes in Django templates.
 
